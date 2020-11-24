@@ -1,8 +1,7 @@
-# Practica-17
-Martí Pujol
+# Practica-17_PerezDani
 # Enllaç
 
-https://github.com/mapu999/Practica-17.git
+https://github.com/a18danperllu/P17_2
 
 ## Instalación
 
@@ -65,4 +64,4 @@ mysql -u root mysql -p $DB_ROOT_PASSWD <<< "CREATE DATABASE projecte17;"
 
 ## Ejecutar vagrant
 
-Ejecutamos el comando vagrant up para inicializar la máquina virtual. 
+Ejecuto el comando vagrant up para inicializar la máquina virtual. 
